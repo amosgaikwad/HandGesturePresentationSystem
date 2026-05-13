@@ -10,6 +10,7 @@ This project demonstrates the practical use of Artificial Intelligence, Computer
 📷 Webcam-based interaction
 ⚡ Fast and responsive performance
 💻 User-friendly interface
+
 🛠️ Technologies Used
 Python
 OpenCV
@@ -36,39 +37,51 @@ python main.py
 
 Gesture	Action
 Index Finger Up	Pointer Mode
+
 Swipe Right	Next Slide
+
 Swipe Left	Previous Slide
+
 Two Fingers Up	Drawing Mode
+
 Thumb Up	Clear Drawing
+
+
+
 📸 How It Works
 The webcam captures live video input.
+
 The hand tracking module detects hand landmarks.
+
 Gestures are identified based on finger positions.
+
 Corresponding presentation actions are triggered.
+
 Slides are updated in real-time.
+
 🎯 Applications
+
 Smart Classrooms
 Business Presentations
 Online Teaching
 Interactive Seminars
 Touch-Free Systems
 AI-Based Human Computer Interaction
+
 🔮 Future Improvements
 Voice Assistant Integration
 Multi-Hand Gesture Support
 Gesture Customization
 Cloud-Based Presentation Access
 AI-Powered Gesture Learning
-🤝 Contribution
 
+🤝 Contribution
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 📜 License
-
 This project is licensed under the MIT License.
 
 👨‍💻 Author
-
-Amos Gaikwad
+Amos Gaikwad, Aadarsh Rajput, Shreyash Bhagat, Praj Tarapurkar
 Computer Science Engineering Student
 Passionate about AI, Computer Vision, and Full Stack Development
