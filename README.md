@@ -18,28 +18,22 @@ NumPy
 PyQt5
 Computer Vision
 Gesture Recognition Algorithms
-📂 Project Structure
-Hand-Gesture-Presentation-System/
-│
-├── presentation/
-│   ├── slide1.jpg
-│   ├── slide2.jpg
-│
-├── HandTracker.py
-├── main.py
-├── requirements.txt
-├── README.md
-└── assets/
+
 ⚙️ Installation
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/Hand-Gesture-Presentation-System.git
+
 2️⃣ Navigate to Project Folder
 cd Hand-Gesture-Presentation-System
+
 3️⃣ Install Required Libraries
 pip install -r requirements.txt
+
 ▶️ Run the Project
 python main.py
+
 ✋ Gesture Controls
+
 Gesture	Action
 Index Finger Up	Pointer Mode
 Swipe Right	Next Slide
